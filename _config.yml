@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Rokas # the main title
 
-tagline: Rokas blog's where i post all the best info... # it will display as the subtitle
+tagline: Here I post about various things I find on the internet, mostly related to security features. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
